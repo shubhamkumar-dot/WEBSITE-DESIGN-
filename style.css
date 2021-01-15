@@ -1,0 +1,73 @@
+
+
+        .menu{
+            background-color:lightblue;
+        }
+
+
+        .menu{
+            display: flex;
+            justify-content: space-evenly;
+            
+        }
+
+        .instruction{
+            position: relative;
+        }
+
+        .instruction center{
+            position: absolute;
+            left: 350px;
+            color: white;
+        }
+
+        
+        .instruction h2{
+            position: absolute;
+            left: 350px;
+            right: 350px;
+            top: 150px;
+            color: white;
+        }
+
+        .body{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+        
+        .camel{
+            border-color: brown;
+            border: 3px;
+            border: dotted;
+        }
+
+        .chameleon{
+            border-color: brown;
+            border: 3px;
+            border: dotted;
+        }
+
+        .cicada{
+            border-color: brown;
+            border: 3px;
+            border: dotted;   
+        }
+
+        .panda{
+            border-color: brown;
+            border: 3px;
+            border: dotted;   
+        }
+
+        .pigeon{
+            border-color: brown;
+            border: 3px;
+            border: dotted;   
+        }
+
+        .bear{
+            border-color: brown;
+            border: 3px;
+            border: dotted;   
+        }
